@@ -8,7 +8,7 @@ import LoadMoreBtn from './components/LoadMoreBtn/LoadMoreBtn';
 import Loader from './components/Loader/Loader';
 import ErrorMessage from './components/ErrorMessage/ErrorMessage';
 import ImageModal from './components/ImageModal/ImageModal';
-import { fetchImages } from './api/Unsplash';
+import { fetchImages } from './components/Unsplash/Unsplash';
 
 Modal.setAppElement('#root');
 
