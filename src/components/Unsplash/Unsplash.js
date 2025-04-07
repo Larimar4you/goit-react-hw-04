@@ -1,4 +1,3 @@
-// src/api/Unsplash.jsx
 import axios from 'axios';
 
 const ACCESS_KEY = 'mKkh-Y14DNYboULiiDnRKoej-5rAsS99EYQxCm4FxDA';
